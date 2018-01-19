@@ -27,10 +27,10 @@ var config = {
 	Port : 3306
 };*/
 var config = {
-	host : 'sql10.freesqldatabase.com',
-	user : 'sql10216268',
+	host : 'databases.000webhost.com',
+	user : 'id3317293_cesar_paulino',
 	password : 'roboejecutivo',
-	database : 'sql10216268',
+	database : 'id3317293_itgam',
 	Port : 3306
 };
 
